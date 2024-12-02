@@ -1,0 +1,82 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: rhizodeposit_influence_manuscript.aux
+The style file: chicago.bst
+Database file #1: rhizodeposit_influence_bibliography.bib
+Repeated entry---line 2675 of file rhizodeposit_influence_bibliography.bib
+ : @article{cai2018parameterization
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2995 of file rhizodeposit_influence_bibliography.bib
+ : @article{vsimuunek2009modeling
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3017 of file rhizodeposit_influence_bibliography.bib
+ : @article{cai2018parameterization
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3039 of file rhizodeposit_influence_bibliography.bib
+ : @article{feki2018influence
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3059 of file rhizodeposit_influence_bibliography.bib
+ : @article{schnepf2018crootbox
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5201 of file rhizodeposit_influence_bibliography.bib
+ : @article{AlnaesBlechta2015a
+ :                            ,
+I'm skipping whatever remains of this entry
+Warning--page numbers missing in ahrens2005paraview
+Warning--page numbers missing in AlnaesBlechta2015a
+Warning--no number and no volume in brochu2010tutorial
+Warning--page numbers missing in brochu2010tutorial
+Warning--no number and no volume in clement2022root
+Warning--page numbers missing in clement2022root
+Warning--no number and no volume in mair2022model
+Warning--page numbers missing in naveed2018rhizosphere
+Warning--no number and no volume in van2011hydraulic
+Warning--no number and no volume in vogel1996hydrus
+Warning--page numbers missing in vogel1996hydrus
+You've used 55 entries,
+            2861 wiz_defined-function locations,
+            962 strings with 17351 characters,
+and the built_in function-call counts, 48727 in all, are:
+= -- 3618
+> -- 4905
+< -- 1
++ -- 1572
+- -- 1628
+* -- 5129
+:= -- 9081
+add.period$ -- 166
+call.type$ -- 55
+change.case$ -- 520
+chr.to.int$ -- 55
+cite$ -- 66
+duplicate$ -- 985
+empty$ -- 2324
+format.name$ -- 1812
+if$ -- 8882
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 55
+newline$ -- 278
+num.names$ -- 550
+pop$ -- 373
+preamble$ -- 1
+purify$ -- 852
+quote$ -- 0
+skip$ -- 1006
+stack$ -- 0
+substring$ -- 2181
+swap$ -- 319
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1090
+warning$ -- 11
+while$ -- 490
+width$ -- 0
+write$ -- 720
+(There were 6 error messages)

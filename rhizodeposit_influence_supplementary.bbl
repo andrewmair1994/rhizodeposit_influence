@@ -1,0 +1,46 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Allen, Pereira, Raes, Smith, et~al.}{Allen
+  et~al.}{1998}]{allen1998crop}
+Allen, R.~G., L.~S. Pereira, D.~Raes, M.~Smith, et~al. (1998).
+\newblock Crop evapotranspiration-guidelines for computing crop water
+  requirements-fao irrigation and drainage paper 56.
+\newblock {\em Fao, Rome\/}~{\em 300\/}(9), D05109.
+
+\bibitem[\protect\citeauthoryear{Carsel and Parrish}{Carsel and
+  Parrish}{1988}]{carsel1988developing}
+Carsel, R.~F. and R.~S. Parrish (1988).
+\newblock Developing joint probability distributions of soil water retention
+  characteristics.
+\newblock {\em Water resources research\/}~{\em 24\/}(5), 755--769.
+
+\bibitem[\protect\citeauthoryear{Kool and Parker}{Kool and
+  Parker}{1987}]{kool1987development}
+Kool, J. and J.~C. Parker (1987).
+\newblock Development and evaluation of closed-form expressions for hysteretic
+  soil hydraulic properties.
+\newblock {\em Water Resources Research\/}~{\em 23\/}(1), 105--114.
+
+\bibitem[\protect\citeauthoryear{Morris and Lowery}{Morris and
+  Lowery}{1988}]{morris1988influence}
+Morris, L.~A. and R.~F. Lowery (1988).
+\newblock Influence of site preparation on soil conditions affecting stand
+  establishment and tree growth.
+\newblock {\em Southern Journal of Applied Forestry\/}~{\em 12\/}(3), 170--178.
+
+\bibitem[\protect\citeauthoryear{Scott, Rattray, Prosser, Killham, Glover,
+  Lynch, and Bazin}{Scott et~al.}{1995}]{scott1995mathematical}
+Scott, E.~M., E.~A. Rattray, J.~I. Prosser, K.~Killham, L.~A. Glover, J.~Lynch,
+  and M.~Bazin (1995).
+\newblock A mathematical model for dispersal of bacterial inoculants colonizing
+  the wheat rhizosphere.
+\newblock {\em Soil Biology and Biochemistry\/}~{\em 27\/}(10), 1307--1318.
+
+\bibitem[\protect\citeauthoryear{Vogel, Huang, Zhang, and Van~Genuchten}{Vogel
+  et~al.}{1996}]{vogel1996hydrus}
+Vogel, T., K.~Huang, R.~Zhang, and M.~T. Van~Genuchten (1996).
+\newblock The hydrus code for simulating one-dimensional water flow, solute
+  transport, and heat movement in variably-saturated media.
+\newblock {\em US Salinity Lab, Riverside, CA\/}.
+
+\end{thebibliography}

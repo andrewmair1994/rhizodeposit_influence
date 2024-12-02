@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: rhizodeposit_influence_supplementary.aux
+The style file: chicago.bst
+Database file #1: rhizodeposit_influence_bibliography.bib
+Warning--no number and no volume in vogel1996hydrus
+Warning--page numbers missing in vogel1996hydrus
+You've used 6 entries,
+            2861 wiz_defined-function locations,
+            657 strings with 6295 characters,
+and the built_in function-call counts, 5024 in all, are:
+= -- 400
+> -- 458
+< -- 0
++ -- 148
+- -- 156
+* -- 507
+:= -- 922
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 51
+chr.to.int$ -- 6
+cite$ -- 8
+duplicate$ -- 106
+empty$ -- 256
+format.name$ -- 180
+if$ -- 920
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 6
+newline$ -- 33
+num.names$ -- 60
+pop$ -- 33
+preamble$ -- 1
+purify$ -- 87
+quote$ -- 0
+skip$ -- 119
+stack$ -- 0
+substring$ -- 248
+swap$ -- 35
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 120
+warning$ -- 2
+while$ -- 57
+width$ -- 0
+write$ -- 80
+(There were 2 warnings)

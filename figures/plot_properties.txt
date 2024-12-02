@@ -1,0 +1,309 @@
+Soil type: sandy loam
+
+############################
+Water contents
+############################
+
+Lower water content = 0.068
+Upper water content = 0.19
+
+#################################
+Root length density colour scheme
+#################################
+
+erdc_purple2green
+Lower bound = 0.0
+Upper bound = 1.4
+dot 2 = 0.0025
+dot 3 = 0.005
+dot 4 = 0.0075
+dot 5 = 0.01
+dot 6 = 0.0125
+dot 7 = 0.015
+
+############################################
+Normalised Root length density colour scheme
+############################################
+
+erdc_purple2green
+Lower bound = 0.0
+Upper bound = 3.6e-05
+dot 2 = 1e-7
+dot 3 = 1.5e-7
+dot 4 = 2.0e-7
+dot 5 = 2.5e-7
+dot 6 = 3e-7
+dot 7 = 4e-7
+
+###########################################
+Legend properties
+###########################################
+
+Title 36
+Text/annotation 24
+
+###################
+Glyph scale factors
+###################
+
+
+theta6days1_ppat1ptot0_12
+time = 0.5 days
+factor = 100
+sample points = 5000
+
+time = 2.75 days
+factor = 2500
+sample points = 100
+
+*******************
+
+theta15days1_ppat1ptot0_12
+time = 0.5 days
+factor = 100
+sample points = 5000
+
+time = 2.75 days
+factor = 2500
+sample points = 100
+
+*******************
+
+theta30days1_ppat1ptot0_12
+time = 0.5 days
+factor = 100
+sample points = 5000
+
+time = 2.75 days
+factor = 2500
+sample points = 100
+
+*******************
+
+theta6days1_ppat2ptot0_12
+time = 0.5 days
+factor = 400
+sample points = 5000
+
+time = 2.75 days
+factor = 400
+sample points = 5000
+
+*******************
+
+theta15days1_ppat2ptot0_12
+time = 0.5 days
+factor = 400
+sample points = 5000
+
+time = 2.75 days
+factor = 400
+sample points = 5000
+
+*******************
+
+theta30days1_ppat2ptot0_12
+time = 0.5 days
+factor = 400
+sample points = 5000
+
+time = 2.75 days
+factor = 400
+sample points = 5000
+
+*******************
+
+theta6days1_ppat3ptot0_12
+time = 0.5 days
+factor = 1000
+sample points = 5000
+
+time = 1.625 days
+factor = 1000
+sample points = 5000
+
+time = 2.75 days
+factor = 1000
+sample points = 5000
+
+*******************
+
+theta15days1_ppat3ptot0_12
+time = 0.5 days
+factor = 1000
+sample points = 5000
+
+time = 1.625 days
+factor = 1000
+sample points = 5000
+
+time = 2.75 days
+factor = 1000
+sample points = 5000
+
+*******************
+
+theta30days1_ppat3ptot0_12
+time = 0.5 days
+factor = 1000
+sample points = 5000
+
+time = 1.625 days
+factor = 1000
+sample points = 5000
+
+time = 2.75 days
+factor = 1000
+sample points = 5000
+
+*******************
+
+theta6days1_ppat1ptot0_28
+time = 0.5 days
+factor = 50
+sample points = 5000
+
+time = 1.5 days
+factor = 750
+sample points = 5000
+
+time = 2.5 days
+factor = 750
+sample points = 5000
+
+*******************
+
+theta15days1_ppat1ptot0_28
+time = 0.5 days
+factor = 50
+sample points = 5000
+
+time = 1.5 days
+factor = 750
+sample points = 5000
+
+time = 2.5 days
+factor = 750
+sample points = 5000
+
+*******************
+
+theta30days1_ppat1ptot0_28
+time = 0.5 days
+factor = 50
+sample points = 5000
+
+time = 1.5 days
+factor = 750
+sample points = 5000
+
+time = 2.5 days
+factor = 750
+sample points = 5000
+
+*******************
+
+theta6days1_ppat2ptot0_28
+time = 0.5 days
+factor = 400
+sample points = 5000
+
+time = 2.75 days
+factor = 400
+sample points = 5000
+
+
+*******************
+
+theta15days1_ppat2ptot0_28
+time = 0.5 days
+factor = 400
+sample points = 5000
+
+time = 2.75 days
+factor = 400
+sample points = 5000
+
+*******************
+
+theta30days1_ppat2ptot0_28
+time = 0.5 days
+factor = 400
+sample points = 5000
+
+time = 2.75 days
+factor = 400
+sample points = 5000
+
+*******************
+
+theta6days1_ppat3ptot0_28
+time = 0.5 days
+factor = 1000
+sample points = 5000
+
+time = 1.625 days
+factor = 1000
+sample points = 5000
+
+time = 2.75 days
+factor = 1000
+sample points = 5000
+
+*******************
+
+theta15days1_ppat3ptot0_28
+time = 0.5 days
+factor = 1000
+sample points = 5000
+
+time = 1.625 days
+factor = 1000
+sample points = 5000
+
+time = 2.75 days
+factor = 1000
+sample points = 5000
+
+*******************
+
+theta30days1_ppat3ptot0_28
+time = 0.5 days
+factor = 1000
+sample points = 5000
+
+time = 1.625 days
+factor = 1000
+sample points = 5000
+
+time = 2.75 days
+factor = 1000
+sample points = 5000
+
+######################
+Inkscape
+######################
+
+**************************
+Flow figure 
+
+1. Set height of figure to 60
+2. Move to 0,0 on page 
+3. Create box of width 3.8mm and height 53.3mm Almeria, Madrid water
+4. Create box of width 3.8mm and height 53.4mm Almeria, dry rhizodeposits
+5. Create box of width 4mm and height 53.6mm Almeria, wet rhizodeposits
+6. Move box to (32.9, 3.4) Almeria water
+7. Move box to (32.5, 3.3) Almeria dry rhizodeposits
+7. Move box to (34.550, 3.2) Almeria wet rhizodeposits
+8. Move box to (34.335, 3.385) Madrid
+
+Density graphs same as above
+
+Legend of density graphs same as above but with box of width 14mm and height 22mm 
+
+low 
+0 
+
+high
+5.2e-04
+

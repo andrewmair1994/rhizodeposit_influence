@@ -1,0 +1,111 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{lineno} 
+\usepackage{dsfont}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows}
+\usepackage{multirow}
+\usepackage{physics}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{listings}
+\usepackage{relsize}
+\usepackage{bigints}
+\usepackage{natbib}
+\usepackage[export]{adjustbox}
+\usepackage[linesnumbered,commentsnumbered,ruled,vlined]{algorithm2e}
+\usepackage[normalem]{ulem}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{soul}
+\usepackage{xcolor}
+
+\graphicspath{{figures/}}
+
+\setlength{\textheight}{24.0cm}
+\setlength{\textwidth}{16.0cm}
+\setlength{\parindent}{0.0cm}
+\setlength{\topmargin}{-1.0cm}
+\setlength{\oddsidemargin}{0.0cm}
+\renewcommand{\baselinestretch}{1.}
+\numberwithin{equation}{section}
+
+% Title footnote command
+\newcommand\funding[1]{\protect\\ \hspace*{15.37pt}{\bfseries Funding:} #1}
+\newcommand\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+
+% Keywords command
+\providecommand{\keywords}[1]
+{
+	\small	
+	\textbf{\textit{Keywords---}} #1
+}
+
+\title{Modelling the influence of rhizodeposits on root water uptake: Supplementary Material}
+
+
+\author{
+	Andrew Mair\thanks{Department of Conservation of Natural Resources, NEIKER, Derio, Basque Country, Spain ({amair@neiker.eus, ORCID: 0000-0003-3847-5215})},\;  
+	Lionel X Dupuy\thanks{Department of Conservation of Natural Resources, NEIKER \& IKERBASQUE, Derio, Basque Country, Spain ({ldupuy@neiker.eus, ORCID: 0000-0001-5221-9037})},\; 
+	Mariya Ptashnyk\thanks{Department of Mathematics, School of Mathematical and Computer Sciences, Heriot-Watt University,  Scotland, United Kingdom ({m.ptashnyk@hw.ac.uk, ORCID: 0000-0003-4091-5080})},\;
+	Emma Gomez Peral\thanks{Department of Conservation of Natural Resources, NEIKER, Derio, Basque Country, Spain ({egomez@neiker.eus})}  
+}
+
+
+\date{} 
+
+\begin{document}
+	
+	\maketitle
+	\thispagestyle{empty}
+	\newpage	
+	\clearpage
+	\pagenumbering{arabic}
+
+\begin{table}
+	\small
+	\centering
+	\begin{tabular}{{|c|p{6cm}|c|c|}}
+		\hline
+		Parameter & Description & Value & Source\\
+		\hline
+		$\rho$ & Soil bulk density & $1650\text{mgcm}^{-3}$ & \cite{morris1988influence}\\
+		\hline
+		$\theta_{r, 0}$ & Residual water content & $0.065\text{cm}^3\text{cm}^{-3}$ & \cite{carsel1988developing}\\
+		\hline
+		$\theta_{s, 0}$ & Saturated water content & $0.41\text{cm}^3\text{cm}^{-3}$ & \cite{carsel1988developing}\\
+		\hline
+		$\alpha_{\theta, 0}^W$ & Wetting inverse air-entry pressure without rhizodeposits & $0.0521\text{cm}^3\text{cm}^{-3}$ & \cite{kool1987development}\\
+		\hline
+		$\alpha_{\theta, 0}^D$ & Drying inverse air-entry pressure without rhizodeposits & $0.0114\text{cm}^3\text{cm}^{-3}$ & \cite{kool1987development}\\
+		\hline
+		$n_\theta$ & Pore size parameter  & 1.89 & \cite{carsel1988developing}\\
+		\hline
+		$K_{s,0}^W$ & Wetting saturated hydraulic conductivity without rhizodeposits& $72\text{cm}\text{d}^{-1}$ & \cite{vogel1996hydrus}\\
+		\hline
+		$K_{s,0}^D$ & Drying saturated hydraulic conductivity without rhizodeposits& $120\text{cm}\text{d}^{-1}$ & \cite{vogel1996hydrus}\\
+		\hline
+		$D_W$ & Diffusion coefficient of rhizodeposits in solution & $0.65\text{cm}^2\text{d}^{-1}$ & \cite{scott1995mathematical}\\
+		\hline
+		$\text{ET}_0$ & Reference evapotranspiration & $0.1\text{cm}\text{d}^{-1}$ & \cite{allen1998crop}\\
+		\hline
+		$\mathcal{T}_\text{p}$ & Potential plant transpiration & $0.1\text{cm}\text{d}^{-1}$ & \cite{allen1998crop}\\
+		\hline
+		$\mathcal{T}_\text{p}$ & Potential plant transpiration & $0.1\text{cm}\text{d}^{-1}$ & \cite{allen1998crop}\\
+		
+		\hline
+	\end{tabular}
+	\caption{Literature parameters employed in models}
+	\label{table:effective_conductivities}
+\end{table}
+
+\bibliographystyle{chicago}
+\bibliography{rhizodeposit_influence_bibliography}
+
+\end{document}	
