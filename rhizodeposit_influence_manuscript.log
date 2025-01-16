@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.29)  29 NOV 2024 17:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.29)  16 JAN 2025 16:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -756,36 +756,44 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 (c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )))
+(c:/texlive/2023/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip89
+\@affilsep=\skip90
+\c@Maxaffil=\count338
+\c@authors=\count339
+\c@affil=\count340
+)
 (./rhizodeposit_influence_manuscript.aux)
 \openout1 = `rhizodeposit_influence_manuscript.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
 
 (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count338
+\scratchcounter=\count341
 \scratchdimen=\dimen320
 \scratchbox=\box89
-\nofMPsegments=\count339
-\nofMParguments=\count340
+\nofMPsegments=\count342
+\nofMParguments=\count343
 \everyMPshowfont=\toks56
-\MPscratchCnt=\count341
+\MPscratchCnt=\count344
 \MPscratchDim=\dimen321
-\MPnumerator=\count342
-\makeMPintoPDFobject=\count343
+\MPnumerator=\count345
+\makeMPintoPDFobject=\count346
 \everyMPtoPDFconversion=\toks57
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -805,34 +813,67 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count344
-LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
+\c@lstlisting=\count347
+LaTeX Font Info:    Trying to load font information for U+msa on input line 66.
 
 
 (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 66.
 
 
 (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 6708) in paragraph at lines 65--65
-[][]\OT1/cmr/m/n/9 Department of Con-ser-va-tion of Nat-u-ral Re-sources, NEIKE
-R, De-rio, Basque Coun-try, Spain
- []
-
-
-Underfull \hbox (badness 6708) in paragraph at lines 65--65
-[][]\OT1/cmr/m/n/9 Department of Con-ser-va-tion of Nat-u-ral Re-sources, NEIKE
-R, De-rio, Basque Coun-try, Spain
- []
-
-[1
+) [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
-texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]|\OT1/cmr/m/n/8 Concentration of rhi-zode-posits in so-lu-
+ []
+
+
+Underfull \hbox (badness 5274) in paragraph at lines 152--152
+[]|\OT1/cmr/m/n/8 Hysteretic sat-u-rated hy-draulic con-duc-tiv-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+[]|\OT1/cmr/m/n/8 Value of $\OML/cmm/m/it/8 ^^M$ \OT1/cmr/m/n/8 in ab-sence of 
+rhi-zode-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--278
+[]|\OT1/cmr/m/n/8 Non-hysteretic resid-ual wa-ter con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--281
+[]|\OT1/cmr/m/n/8 Hysteretic sat-u-rated wa-ter con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
+[]|\OT1/cmr/m/n/8 Non-hysteretic sat-u-rated wa-ter con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+[]|\OT1/cmr/m/n/8 Water con-tent at hys-tere-sis re-ver-sal
+ []
+
+
+Overfull \hbox (23.54721pt too wide) in alignment at lines 83--306
+ [] [] [] [] 
+ []
+
+[2
+
+] [3]
 Package epstopdf Info: Source file: <figures/concept_figure_10_10_24.eps>
 (epstopdf)                    date: 2024-10-10 14:26:30
 (epstopdf)                    size: 245742 bytes
@@ -842,332 +883,80 @@ ted-to.pdf>
 (epstopdf)                    size: 242011 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/concept_figure_10_
 10_24-eps-converted-to.pdf figures/concept_figure_10_10_24.eps>
-(epstopdf)             \includegraphics on input line 87.
+(epstopdf)             \includegraphics on input line 318.
 Package epstopdf Info: Output file is already uptodate.
-<figures/concept_figure_10_10_24-eps-converted-to.pdf, id=14, 482.80376pt x 317
+<figures/concept_figure_10_10_24-eps-converted-to.pdf, id=33, 482.80376pt x 317
 .185pt>
 File: figures/concept_figure_10_10_24-eps-converted-to.pdf Graphic file (type p
 df)
 <use figures/concept_figure_10_10_24-eps-converted-to.pdf>
 Package pdftex.def Info: figures/concept_figure_10_10_24-eps-converted-to.pdf  
-used on input line 87.
+used on input line 318.
 (pdftex.def)             Requested size: 341.43306pt x 224.31721pt.
- [1
+ [4
 
-] [2 <./figures/concept_figure_10_10_24-eps-converted-to.pdf>] [3]
-Overfull \hbox (5.14146pt too wide) in paragraph at lines 279--283
-\OT1/cmr/m/n/10 evap-o-ra-tion, $[][]$ $[[][]]$ is the ref-er-ence evap-o-tran-
-spi-ra-tion, $\OML/cmm/m/it/10 P$ $\OT1/cmr/m/n/10 [[][]]$ the pre-cip-i-ta-tio
-n rate and $\OML/cmm/m/it/10 RO$ $\OT1/cmr/m/n/10 [[][]]$
+] [5 <./figures/concept_figure_10_10_24-eps-converted-to.pdf>]
+Overfull \hbox (28.07735pt too wide) in paragraph at lines 416--421
+\OT1/cmr/m/n/10.95 This af-fects the value of $\OML/cmm/m/it/10.95 K$ \OT1/cmr/
+m/n/10.95 through the ef-fec-tive hy-draulic con-duc-tiv-ity (Mualem, 1976; Van
+ Genuchten,
  []
 
-[4] [5] [6]
-Package epstopdf Info: Source file: <figures/pr_ppat1ptot0_12.eps>
-(epstopdf)                    date: 2024-09-20 14:45:13
-(epstopdf)                    size: 22626 bytes
-(epstopdf)             Output file: <figures/pr_ppat1ptot0_12-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-20 15:41:36
-(epstopdf)                    size: 14489 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat1ptot0_12-e
-ps-converted-to.pdf figures/pr_ppat1ptot0_12.eps>
-(epstopdf)             \includegraphics on input line 355.
+[6] [7] [8] [9] [10] [11]
+Package epstopdf Info: Source file: <figures/trigo6days1_3D_plot.eps>
+(epstopdf)                    date: 2025-01-10 12:33:14
+(epstopdf)                    size: 46214 bytes
+(epstopdf)             Output file: <figures/trigo6days1_3D_plot-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2025-01-10 13:05:09
+(epstopdf)                    size: 41147 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/trigo6days1_3D_plo
+t-eps-converted-to.pdf figures/trigo6days1_3D_plot.eps>
+(epstopdf)             \includegraphics on input line 574.
 Package epstopdf Info: Output file is already uptodate.
-<figures/pr_ppat1ptot0_12-eps-converted-to.pdf, id=49, 578.16pt x 289.08pt>
-File: figures/pr_ppat1ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/pr_ppat1ptot0_12-eps-converted-to.pdf>
-Package pdftex.def Info: figures/pr_ppat1ptot0_12-eps-converted-to.pdf  used on
- input line 355.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/pr_ppat2ptot0_12.eps>
-(epstopdf)                    date: 2024-09-20 14:45:17
-(epstopdf)                    size: 23061 bytes
-(epstopdf)             Output file: <figures/pr_ppat2ptot0_12-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-20 15:41:38
-(epstopdf)                    size: 14589 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat2ptot0_12-e
-ps-converted-to.pdf figures/pr_ppat2ptot0_12.eps>
-(epstopdf)             \includegraphics on input line 359.
+<figures/trigo6days1_3D_plot-eps-converted-to.pdf, id=66, 422.57875pt x 317.185
+pt>
+File: figures/trigo6days1_3D_plot-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/trigo6days1_3D_plot-eps-converted-to.pdf>
+Package pdftex.def Info: figures/trigo6days1_3D_plot-eps-converted-to.pdf  used
+ on input line 574.
+(pdftex.def)             Requested size: 125.18933pt x 93.96562pt.
+Package epstopdf Info: Source file: <figures/trigo15days1_3D_plot.eps>
+(epstopdf)                    date: 2025-01-10 12:37:14
+(epstopdf)                    size: 66370 bytes
+(epstopdf)             Output file: <figures/trigo15days1_3D_plot-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2025-01-10 13:05:14
+(epstopdf)                    size: 62072 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/trigo15days1_3D_pl
+ot-eps-converted-to.pdf figures/trigo15days1_3D_plot.eps>
+(epstopdf)             \includegraphics on input line 578.
 Package epstopdf Info: Output file is already uptodate.
-<figures/pr_ppat2ptot0_12-eps-converted-to.pdf, id=50, 578.16pt x 289.08pt>
-File: figures/pr_ppat2ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/pr_ppat2ptot0_12-eps-converted-to.pdf>
-Package pdftex.def Info: figures/pr_ppat2ptot0_12-eps-converted-to.pdf  used on
- input line 359.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/pr_ppat3ptot0_12.eps>
-(epstopdf)                    date: 2024-09-20 14:45:22
-(epstopdf)                    size: 23471 bytes
-(epstopdf)             Output file: <figures/pr_ppat3ptot0_12-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-20 15:41:39
-(epstopdf)                    size: 14688 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat3ptot0_12-e
-ps-converted-to.pdf figures/pr_ppat3ptot0_12.eps>
-(epstopdf)             \includegraphics on input line 363.
+<figures/trigo15days1_3D_plot-eps-converted-to.pdf, id=67, 422.57875pt x 317.18
+5pt>
+File: figures/trigo15days1_3D_plot-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/trigo15days1_3D_plot-eps-converted-to.pdf>
+Package pdftex.def Info: figures/trigo15days1_3D_plot-eps-converted-to.pdf  use
+d on input line 578.
+(pdftex.def)             Requested size: 125.18933pt x 93.96562pt.
+Package epstopdf Info: Source file: <trigo30days1_3D_plot.eps>
+(epstopdf)                    date: 2025-01-10 13:01:07
+(epstopdf)                    size: 90984 bytes
+(epstopdf)             Output file: <trigo30days1_3D_plot-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2025-01-10 13:11:07
+(epstopdf)                    size: 88458 bytes
+(epstopdf)             Command: <repstopdf --outfile=trigo30days1_3D_plot-eps-c
+onverted-to.pdf trigo30days1_3D_plot.eps>
+(epstopdf)             \includegraphics on input line 582.
 Package epstopdf Info: Output file is already uptodate.
-<figures/pr_ppat3ptot0_12-eps-converted-to.pdf, id=51, 578.16pt x 289.08pt>
-File: figures/pr_ppat3ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/pr_ppat3ptot0_12-eps-converted-to.pdf>
-Package pdftex.def Info: figures/pr_ppat3ptot0_12-eps-converted-to.pdf  used on
- input line 363.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/ev_ppat1ptot0_12.eps>
-(epstopdf)                    date: 2024-09-25 08:23:58
-(epstopdf)                    size: 92400 bytes
-(epstopdf)             Output file: <figures/ev_ppat1ptot0_12-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:29:28
-(epstopdf)                    size: 33949 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat1ptot0_12-e
-ps-converted-to.pdf figures/ev_ppat1ptot0_12.eps>
-(epstopdf)             \includegraphics on input line 367.
-Package epstopdf Info: Output file is already uptodate.
-<figures/ev_ppat1ptot0_12-eps-converted-to.pdf, id=52, 578.16pt x 289.08pt>
-File: figures/ev_ppat1ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/ev_ppat1ptot0_12-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ev_ppat1ptot0_12-eps-converted-to.pdf  used on
- input line 367.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/ev_ppat2ptot0_12.eps>
-(epstopdf)                    date: 2024-09-25 08:35:01
-(epstopdf)                    size: 97357 bytes
-(epstopdf)             Output file: <figures/ev_ppat2ptot0_12-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:38:48
-(epstopdf)                    size: 34655 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat2ptot0_12-e
-ps-converted-to.pdf figures/ev_ppat2ptot0_12.eps>
-(epstopdf)             \includegraphics on input line 371.
-Package epstopdf Info: Output file is already uptodate.
-<figures/ev_ppat2ptot0_12-eps-converted-to.pdf, id=53, 578.16pt x 289.08pt>
-File: figures/ev_ppat2ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/ev_ppat2ptot0_12-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ev_ppat2ptot0_12-eps-converted-to.pdf  used on
- input line 371.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/ev_ppat3ptot0_12.eps>
-(epstopdf)                    date: 2024-09-25 08:35:07
-(epstopdf)                    size: 103141 bytes
-(epstopdf)             Output file: <figures/ev_ppat3ptot0_12-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:38:50
-(epstopdf)                    size: 36494 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat3ptot0_12-e
-ps-converted-to.pdf figures/ev_ppat3ptot0_12.eps>
-(epstopdf)             \includegraphics on input line 375.
-Package epstopdf Info: Output file is already uptodate.
-<figures/ev_ppat3ptot0_12-eps-converted-to.pdf, id=54, 578.16pt x 289.08pt>
-File: figures/ev_ppat3ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/ev_ppat3ptot0_12-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ev_ppat3ptot0_12-eps-converted-to.pdf  used on
- input line 375.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/up_ppat1ptot0_12.eps>
-(epstopdf)                    date: 2024-09-25 08:42:22
-(epstopdf)                    size: 28313 bytes
-(epstopdf)             Output file: <figures/up_ppat1ptot0_12-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:44:54
-(epstopdf)                    size: 15891 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat1ptot0_12-e
-ps-converted-to.pdf figures/up_ppat1ptot0_12.eps>
-(epstopdf)             \includegraphics on input line 379.
-Package epstopdf Info: Output file is already uptodate.
-<figures/up_ppat1ptot0_12-eps-converted-to.pdf, id=55, 578.16pt x 289.08pt>
-File: figures/up_ppat1ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/up_ppat1ptot0_12-eps-converted-to.pdf>
-Package pdftex.def Info: figures/up_ppat1ptot0_12-eps-converted-to.pdf  used on
- input line 379.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/up_ppat2ptot0_12.eps>
-(epstopdf)                    date: 2024-09-25 08:42:28
-(epstopdf)                    size: 26605 bytes
-(epstopdf)             Output file: <figures/up_ppat2ptot0_12-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:44:55
-(epstopdf)                    size: 15376 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat2ptot0_12-e
-ps-converted-to.pdf figures/up_ppat2ptot0_12.eps>
-(epstopdf)             \includegraphics on input line 383.
-Package epstopdf Info: Output file is already uptodate.
-<figures/up_ppat2ptot0_12-eps-converted-to.pdf, id=56, 578.16pt x 289.08pt>
-File: figures/up_ppat2ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/up_ppat2ptot0_12-eps-converted-to.pdf>
-Package pdftex.def Info: figures/up_ppat2ptot0_12-eps-converted-to.pdf  used on
- input line 383.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/up_ppat3ptot0_12.eps>
-(epstopdf)                    date: 2024-09-25 08:42:33
-(epstopdf)                    size: 26899 bytes
-(epstopdf)             Output file: <figures/up_ppat3ptot0_12-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:44:57
-(epstopdf)                    size: 15439 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat3ptot0_12-e
-ps-converted-to.pdf figures/up_ppat3ptot0_12.eps>
-(epstopdf)             \includegraphics on input line 387.
-Package epstopdf Info: Output file is already uptodate.
-<figures/up_ppat3ptot0_12-eps-converted-to.pdf, id=57, 578.16pt x 289.08pt>
-File: figures/up_ppat3ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/up_ppat3ptot0_12-eps-converted-to.pdf>
-Package pdftex.def Info: figures/up_ppat3ptot0_12-eps-converted-to.pdf  used on
- input line 387.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/pr_ppat1ptot0_28.eps>
-(epstopdf)                    date: 2024-09-20 14:44:47
-(epstopdf)                    size: 22672 bytes
-(epstopdf)             Output file: <figures/pr_ppat1ptot0_28-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-20 15:47:43
-(epstopdf)                    size: 14498 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat1ptot0_28-e
-ps-converted-to.pdf figures/pr_ppat1ptot0_28.eps>
-(epstopdf)             \includegraphics on input line 397.
-Package epstopdf Info: Output file is already uptodate.
-<figures/pr_ppat1ptot0_28-eps-converted-to.pdf, id=58, 578.16pt x 289.08pt>
-File: figures/pr_ppat1ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/pr_ppat1ptot0_28-eps-converted-to.pdf>
-Package pdftex.def Info: figures/pr_ppat1ptot0_28-eps-converted-to.pdf  used on
- input line 397.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/pr_ppat2ptot0_28.eps>
-(epstopdf)                    date: 2024-09-20 14:44:53
-(epstopdf)                    size: 23167 bytes
-(epstopdf)             Output file: <figures/pr_ppat2ptot0_28-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-20 15:47:44
-(epstopdf)                    size: 14619 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat2ptot0_28-e
-ps-converted-to.pdf figures/pr_ppat2ptot0_28.eps>
-(epstopdf)             \includegraphics on input line 401.
-Package epstopdf Info: Output file is already uptodate.
-<figures/pr_ppat2ptot0_28-eps-converted-to.pdf, id=59, 578.16pt x 289.08pt>
-File: figures/pr_ppat2ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/pr_ppat2ptot0_28-eps-converted-to.pdf>
-Package pdftex.def Info: figures/pr_ppat2ptot0_28-eps-converted-to.pdf  used on
- input line 401.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/pr_ppat3ptot0_28.eps>
-(epstopdf)                    date: 2024-09-20 14:45:03
-(epstopdf)                    size: 23539 bytes
-(epstopdf)             Output file: <figures/pr_ppat3ptot0_28-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-20 15:47:46
-(epstopdf)                    size: 14708 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat3ptot0_28-e
-ps-converted-to.pdf figures/pr_ppat3ptot0_28.eps>
-(epstopdf)             \includegraphics on input line 405.
-Package epstopdf Info: Output file is already uptodate.
-<figures/pr_ppat3ptot0_28-eps-converted-to.pdf, id=60, 578.16pt x 289.08pt>
-File: figures/pr_ppat3ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/pr_ppat3ptot0_28-eps-converted-to.pdf>
-Package pdftex.def Info: figures/pr_ppat3ptot0_28-eps-converted-to.pdf  used on
- input line 405.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/ev_ppat1ptot0_28.eps>
-(epstopdf)                    date: 2024-09-25 08:22:33
-(epstopdf)                    size: 108139 bytes
-(epstopdf)             Output file: <figures/ev_ppat1ptot0_28-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:29:30
-(epstopdf)                    size: 38501 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat1ptot0_28-e
-ps-converted-to.pdf figures/ev_ppat1ptot0_28.eps>
-(epstopdf)             \includegraphics on input line 409.
-Package epstopdf Info: Output file is already uptodate.
-<figures/ev_ppat1ptot0_28-eps-converted-to.pdf, id=61, 578.16pt x 289.08pt>
-File: figures/ev_ppat1ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/ev_ppat1ptot0_28-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ev_ppat1ptot0_28-eps-converted-to.pdf  used on
- input line 409.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/ev_ppat2ptot0_28.eps>
-(epstopdf)                    date: 2024-09-25 08:35:21
-(epstopdf)                    size: 130010 bytes
-(epstopdf)             Output file: <figures/ev_ppat2ptot0_28-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:38:54
-(epstopdf)                    size: 43641 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat2ptot0_28-e
-ps-converted-to.pdf figures/ev_ppat2ptot0_28.eps>
-(epstopdf)             \includegraphics on input line 413.
-Package epstopdf Info: Output file is already uptodate.
-<figures/ev_ppat2ptot0_28-eps-converted-to.pdf, id=62, 578.16pt x 289.08pt>
-File: figures/ev_ppat2ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/ev_ppat2ptot0_28-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ev_ppat2ptot0_28-eps-converted-to.pdf  used on
- input line 413.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/ev_ppat3ptot0_28.eps>
-(epstopdf)                    date: 2024-09-25 08:35:28
-(epstopdf)                    size: 142784 bytes
-(epstopdf)             Output file: <figures/ev_ppat3ptot0_28-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:38:56
-(epstopdf)                    size: 47262 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat3ptot0_28-e
-ps-converted-to.pdf figures/ev_ppat3ptot0_28.eps>
-(epstopdf)             \includegraphics on input line 417.
-Package epstopdf Info: Output file is already uptodate.
-<figures/ev_ppat3ptot0_28-eps-converted-to.pdf, id=63, 578.16pt x 289.08pt>
-File: figures/ev_ppat3ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/ev_ppat3ptot0_28-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ev_ppat3ptot0_28-eps-converted-to.pdf  used on
- input line 417.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/up_ppat1ptot0_28.eps>
-(epstopdf)                    date: 2024-09-25 08:42:44
-(epstopdf)                    size: 41811 bytes
-(epstopdf)             Output file: <figures/up_ppat1ptot0_28-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:44:59
-(epstopdf)                    size: 19929 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat1ptot0_28-e
-ps-converted-to.pdf figures/up_ppat1ptot0_28.eps>
-(epstopdf)             \includegraphics on input line 421.
-Package epstopdf Info: Output file is already uptodate.
-<figures/up_ppat1ptot0_28-eps-converted-to.pdf, id=64, 578.16pt x 289.08pt>
-File: figures/up_ppat1ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/up_ppat1ptot0_28-eps-converted-to.pdf>
-Package pdftex.def Info: figures/up_ppat1ptot0_28-eps-converted-to.pdf  used on
- input line 421.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/up_ppat2ptot0_28.eps>
-(epstopdf)                    date: 2024-09-25 08:42:49
-(epstopdf)                    size: 38105 bytes
-(epstopdf)             Output file: <figures/up_ppat2ptot0_28-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:45:00
-(epstopdf)                    size: 18967 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat2ptot0_28-e
-ps-converted-to.pdf figures/up_ppat2ptot0_28.eps>
-(epstopdf)             \includegraphics on input line 425.
-Package epstopdf Info: Output file is already uptodate.
-<figures/up_ppat2ptot0_28-eps-converted-to.pdf, id=65, 578.16pt x 289.08pt>
-File: figures/up_ppat2ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/up_ppat2ptot0_28-eps-converted-to.pdf>
-Package pdftex.def Info: figures/up_ppat2ptot0_28-eps-converted-to.pdf  used on
- input line 425.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
-Package epstopdf Info: Source file: <figures/up_ppat3ptot0_28.eps>
-(epstopdf)                    date: 2024-09-25 08:42:56
-(epstopdf)                    size: 37617 bytes
-(epstopdf)             Output file: <figures/up_ppat3ptot0_28-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2024-09-25 08:45:02
-(epstopdf)                    size: 18757 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat3ptot0_28-e
-ps-converted-to.pdf figures/up_ppat3ptot0_28.eps>
-(epstopdf)             \includegraphics on input line 429.
-Package epstopdf Info: Output file is already uptodate.
-<figures/up_ppat3ptot0_28-eps-converted-to.pdf, id=66, 578.16pt x 289.08pt>
-File: figures/up_ppat3ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/up_ppat3ptot0_28-eps-converted-to.pdf>
-Package pdftex.def Info: figures/up_ppat3ptot0_28-eps-converted-to.pdf  used on
- input line 429.
-(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+<trigo30days1_3D_plot-eps-converted-to.pdf, id=68, 422.57875pt x 317.185pt>
+File: trigo30days1_3D_plot-eps-converted-to.pdf Graphic file (type pdf)
+<use trigo30days1_3D_plot-eps-converted-to.pdf>
+Package pdftex.def Info: trigo30days1_3D_plot-eps-converted-to.pdf  used on inp
+ut line 582.
+(pdftex.def)             Requested size: 125.18933pt x 93.96562pt.
 Package epstopdf Info: Source file: <figures/almeria_3_events.eps>
 (epstopdf)                    date: 2024-10-10 15:22:31
 (epstopdf)                    size: 895273 bytes
@@ -1177,14 +966,14 @@ pdf>
 (epstopdf)                    size: 379763 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/almeria_3_events-e
 ps-converted-to.pdf figures/almeria_3_events.eps>
-(epstopdf)             \includegraphics on input line 466.
+(epstopdf)             \includegraphics on input line 591.
 Package epstopdf Info: Output file is already uptodate.
-<figures/almeria_3_events-eps-converted-to.pdf, id=67, 563.10374pt x 831.105pt>
+<figures/almeria_3_events-eps-converted-to.pdf, id=69, 563.10374pt x 831.105pt>
 
 File: figures/almeria_3_events-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/almeria_3_events-eps-converted-to.pdf>
 Package pdftex.def Info: figures/almeria_3_events-eps-converted-to.pdf  used on
- input line 466.
+ input line 591.
 (pdftex.def)             Requested size: 341.43306pt x 503.92972pt.
 Package epstopdf Info: Source file: <figures/madrid_1_event.eps>
 (epstopdf)                    date: 2024-10-10 15:25:04
@@ -1195,15 +984,321 @@ f>
 (epstopdf)                    size: 671259 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/madrid_1_event-eps
 -converted-to.pdf figures/madrid_1_event.eps>
-(epstopdf)             \includegraphics on input line 501.
+(epstopdf)             \includegraphics on input line 598.
 Package epstopdf Info: Output file is already uptodate.
-<figures/madrid_1_event-eps-converted-to.pdf, id=68, 563.10374pt x 832.10875pt>
+<figures/madrid_1_event-eps-converted-to.pdf, id=70, 563.10374pt x 832.10875pt>
 
 File: figures/madrid_1_event-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/madrid_1_event-eps-converted-to.pdf>
 Package pdftex.def Info: figures/madrid_1_event-eps-converted-to.pdf  used on i
-nput line 501.
+nput line 598.
 (pdftex.def)             Requested size: 341.43306pt x 504.53833pt.
+Package epstopdf Info: Source file: <figures/pr_ppat1ptot0_12.eps>
+(epstopdf)                    date: 2024-09-20 14:45:13
+(epstopdf)                    size: 22626 bytes
+(epstopdf)             Output file: <figures/pr_ppat1ptot0_12-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-20 15:41:36
+(epstopdf)                    size: 14489 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat1ptot0_12-e
+ps-converted-to.pdf figures/pr_ppat1ptot0_12.eps>
+(epstopdf)             \includegraphics on input line 606.
+Package epstopdf Info: Output file is already uptodate.
+<figures/pr_ppat1ptot0_12-eps-converted-to.pdf, id=71, 578.16pt x 289.08pt>
+File: figures/pr_ppat1ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/pr_ppat1ptot0_12-eps-converted-to.pdf>
+Package pdftex.def Info: figures/pr_ppat1ptot0_12-eps-converted-to.pdf  used on
+ input line 606.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/pr_ppat2ptot0_12.eps>
+(epstopdf)                    date: 2024-09-20 14:45:17
+(epstopdf)                    size: 23061 bytes
+(epstopdf)             Output file: <figures/pr_ppat2ptot0_12-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-20 15:41:38
+(epstopdf)                    size: 14589 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat2ptot0_12-e
+ps-converted-to.pdf figures/pr_ppat2ptot0_12.eps>
+(epstopdf)             \includegraphics on input line 610.
+Package epstopdf Info: Output file is already uptodate.
+<figures/pr_ppat2ptot0_12-eps-converted-to.pdf, id=72, 578.16pt x 289.08pt>
+File: figures/pr_ppat2ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/pr_ppat2ptot0_12-eps-converted-to.pdf>
+Package pdftex.def Info: figures/pr_ppat2ptot0_12-eps-converted-to.pdf  used on
+ input line 610.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/pr_ppat3ptot0_12.eps>
+(epstopdf)                    date: 2024-09-20 14:45:22
+(epstopdf)                    size: 23471 bytes
+(epstopdf)             Output file: <figures/pr_ppat3ptot0_12-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-20 15:41:39
+(epstopdf)                    size: 14688 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat3ptot0_12-e
+ps-converted-to.pdf figures/pr_ppat3ptot0_12.eps>
+(epstopdf)             \includegraphics on input line 614.
+Package epstopdf Info: Output file is already uptodate.
+<figures/pr_ppat3ptot0_12-eps-converted-to.pdf, id=73, 578.16pt x 289.08pt>
+File: figures/pr_ppat3ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/pr_ppat3ptot0_12-eps-converted-to.pdf>
+Package pdftex.def Info: figures/pr_ppat3ptot0_12-eps-converted-to.pdf  used on
+ input line 614.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/ev_ppat1ptot0_12.eps>
+(epstopdf)                    date: 2024-09-25 08:23:58
+(epstopdf)                    size: 92400 bytes
+(epstopdf)             Output file: <figures/ev_ppat1ptot0_12-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:29:28
+(epstopdf)                    size: 33949 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat1ptot0_12-e
+ps-converted-to.pdf figures/ev_ppat1ptot0_12.eps>
+(epstopdf)             \includegraphics on input line 618.
+Package epstopdf Info: Output file is already uptodate.
+<figures/ev_ppat1ptot0_12-eps-converted-to.pdf, id=74, 578.16pt x 289.08pt>
+File: figures/ev_ppat1ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/ev_ppat1ptot0_12-eps-converted-to.pdf>
+Package pdftex.def Info: figures/ev_ppat1ptot0_12-eps-converted-to.pdf  used on
+ input line 618.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/ev_ppat2ptot0_12.eps>
+(epstopdf)                    date: 2024-09-25 08:35:01
+(epstopdf)                    size: 97357 bytes
+(epstopdf)             Output file: <figures/ev_ppat2ptot0_12-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:38:48
+(epstopdf)                    size: 34655 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat2ptot0_12-e
+ps-converted-to.pdf figures/ev_ppat2ptot0_12.eps>
+(epstopdf)             \includegraphics on input line 622.
+Package epstopdf Info: Output file is already uptodate.
+<figures/ev_ppat2ptot0_12-eps-converted-to.pdf, id=75, 578.16pt x 289.08pt>
+File: figures/ev_ppat2ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/ev_ppat2ptot0_12-eps-converted-to.pdf>
+Package pdftex.def Info: figures/ev_ppat2ptot0_12-eps-converted-to.pdf  used on
+ input line 622.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/ev_ppat3ptot0_12.eps>
+(epstopdf)                    date: 2024-09-25 08:35:07
+(epstopdf)                    size: 103141 bytes
+(epstopdf)             Output file: <figures/ev_ppat3ptot0_12-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:38:50
+(epstopdf)                    size: 36494 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat3ptot0_12-e
+ps-converted-to.pdf figures/ev_ppat3ptot0_12.eps>
+(epstopdf)             \includegraphics on input line 626.
+Package epstopdf Info: Output file is already uptodate.
+<figures/ev_ppat3ptot0_12-eps-converted-to.pdf, id=76, 578.16pt x 289.08pt>
+File: figures/ev_ppat3ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/ev_ppat3ptot0_12-eps-converted-to.pdf>
+Package pdftex.def Info: figures/ev_ppat3ptot0_12-eps-converted-to.pdf  used on
+ input line 626.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/up_ppat1ptot0_12.eps>
+(epstopdf)                    date: 2024-09-25 08:42:22
+(epstopdf)                    size: 28313 bytes
+(epstopdf)             Output file: <figures/up_ppat1ptot0_12-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:44:54
+(epstopdf)                    size: 15891 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat1ptot0_12-e
+ps-converted-to.pdf figures/up_ppat1ptot0_12.eps>
+(epstopdf)             \includegraphics on input line 630.
+Package epstopdf Info: Output file is already uptodate.
+<figures/up_ppat1ptot0_12-eps-converted-to.pdf, id=77, 578.16pt x 289.08pt>
+File: figures/up_ppat1ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/up_ppat1ptot0_12-eps-converted-to.pdf>
+Package pdftex.def Info: figures/up_ppat1ptot0_12-eps-converted-to.pdf  used on
+ input line 630.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/up_ppat2ptot0_12.eps>
+(epstopdf)                    date: 2024-09-25 08:42:28
+(epstopdf)                    size: 26605 bytes
+(epstopdf)             Output file: <figures/up_ppat2ptot0_12-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:44:55
+(epstopdf)                    size: 15376 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat2ptot0_12-e
+ps-converted-to.pdf figures/up_ppat2ptot0_12.eps>
+(epstopdf)             \includegraphics on input line 634.
+Package epstopdf Info: Output file is already uptodate.
+<figures/up_ppat2ptot0_12-eps-converted-to.pdf, id=78, 578.16pt x 289.08pt>
+File: figures/up_ppat2ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/up_ppat2ptot0_12-eps-converted-to.pdf>
+Package pdftex.def Info: figures/up_ppat2ptot0_12-eps-converted-to.pdf  used on
+ input line 634.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/up_ppat3ptot0_12.eps>
+(epstopdf)                    date: 2024-09-25 08:42:33
+(epstopdf)                    size: 26899 bytes
+(epstopdf)             Output file: <figures/up_ppat3ptot0_12-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:44:57
+(epstopdf)                    size: 15439 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat3ptot0_12-e
+ps-converted-to.pdf figures/up_ppat3ptot0_12.eps>
+(epstopdf)             \includegraphics on input line 638.
+Package epstopdf Info: Output file is already uptodate.
+<figures/up_ppat3ptot0_12-eps-converted-to.pdf, id=79, 578.16pt x 289.08pt>
+File: figures/up_ppat3ptot0_12-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/up_ppat3ptot0_12-eps-converted-to.pdf>
+Package pdftex.def Info: figures/up_ppat3ptot0_12-eps-converted-to.pdf  used on
+ input line 638.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/pr_ppat1ptot0_28.eps>
+(epstopdf)                    date: 2024-09-20 14:44:47
+(epstopdf)                    size: 22672 bytes
+(epstopdf)             Output file: <figures/pr_ppat1ptot0_28-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-20 15:47:43
+(epstopdf)                    size: 14498 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat1ptot0_28-e
+ps-converted-to.pdf figures/pr_ppat1ptot0_28.eps>
+(epstopdf)             \includegraphics on input line 674.
+Package epstopdf Info: Output file is already uptodate.
+<figures/pr_ppat1ptot0_28-eps-converted-to.pdf, id=80, 578.16pt x 289.08pt>
+File: figures/pr_ppat1ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/pr_ppat1ptot0_28-eps-converted-to.pdf>
+Package pdftex.def Info: figures/pr_ppat1ptot0_28-eps-converted-to.pdf  used on
+ input line 674.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/pr_ppat2ptot0_28.eps>
+(epstopdf)                    date: 2024-09-20 14:44:53
+(epstopdf)                    size: 23167 bytes
+(epstopdf)             Output file: <figures/pr_ppat2ptot0_28-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-20 15:47:44
+(epstopdf)                    size: 14619 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat2ptot0_28-e
+ps-converted-to.pdf figures/pr_ppat2ptot0_28.eps>
+(epstopdf)             \includegraphics on input line 678.
+Package epstopdf Info: Output file is already uptodate.
+<figures/pr_ppat2ptot0_28-eps-converted-to.pdf, id=81, 578.16pt x 289.08pt>
+File: figures/pr_ppat2ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/pr_ppat2ptot0_28-eps-converted-to.pdf>
+Package pdftex.def Info: figures/pr_ppat2ptot0_28-eps-converted-to.pdf  used on
+ input line 678.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/pr_ppat3ptot0_28.eps>
+(epstopdf)                    date: 2024-09-20 14:45:03
+(epstopdf)                    size: 23539 bytes
+(epstopdf)             Output file: <figures/pr_ppat3ptot0_28-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-20 15:47:46
+(epstopdf)                    size: 14708 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/pr_ppat3ptot0_28-e
+ps-converted-to.pdf figures/pr_ppat3ptot0_28.eps>
+(epstopdf)             \includegraphics on input line 682.
+Package epstopdf Info: Output file is already uptodate.
+<figures/pr_ppat3ptot0_28-eps-converted-to.pdf, id=82, 578.16pt x 289.08pt>
+File: figures/pr_ppat3ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/pr_ppat3ptot0_28-eps-converted-to.pdf>
+Package pdftex.def Info: figures/pr_ppat3ptot0_28-eps-converted-to.pdf  used on
+ input line 682.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/ev_ppat1ptot0_28.eps>
+(epstopdf)                    date: 2024-09-25 08:22:33
+(epstopdf)                    size: 108139 bytes
+(epstopdf)             Output file: <figures/ev_ppat1ptot0_28-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:29:30
+(epstopdf)                    size: 38501 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat1ptot0_28-e
+ps-converted-to.pdf figures/ev_ppat1ptot0_28.eps>
+(epstopdf)             \includegraphics on input line 686.
+Package epstopdf Info: Output file is already uptodate.
+<figures/ev_ppat1ptot0_28-eps-converted-to.pdf, id=83, 578.16pt x 289.08pt>
+File: figures/ev_ppat1ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/ev_ppat1ptot0_28-eps-converted-to.pdf>
+Package pdftex.def Info: figures/ev_ppat1ptot0_28-eps-converted-to.pdf  used on
+ input line 686.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/ev_ppat2ptot0_28.eps>
+(epstopdf)                    date: 2024-09-25 08:35:21
+(epstopdf)                    size: 130010 bytes
+(epstopdf)             Output file: <figures/ev_ppat2ptot0_28-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:38:54
+(epstopdf)                    size: 43641 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat2ptot0_28-e
+ps-converted-to.pdf figures/ev_ppat2ptot0_28.eps>
+(epstopdf)             \includegraphics on input line 690.
+Package epstopdf Info: Output file is already uptodate.
+<figures/ev_ppat2ptot0_28-eps-converted-to.pdf, id=84, 578.16pt x 289.08pt>
+File: figures/ev_ppat2ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/ev_ppat2ptot0_28-eps-converted-to.pdf>
+Package pdftex.def Info: figures/ev_ppat2ptot0_28-eps-converted-to.pdf  used on
+ input line 690.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/ev_ppat3ptot0_28.eps>
+(epstopdf)                    date: 2024-09-25 08:35:28
+(epstopdf)                    size: 142784 bytes
+(epstopdf)             Output file: <figures/ev_ppat3ptot0_28-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:38:56
+(epstopdf)                    size: 47262 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/ev_ppat3ptot0_28-e
+ps-converted-to.pdf figures/ev_ppat3ptot0_28.eps>
+(epstopdf)             \includegraphics on input line 694.
+Package epstopdf Info: Output file is already uptodate.
+<figures/ev_ppat3ptot0_28-eps-converted-to.pdf, id=85, 578.16pt x 289.08pt>
+File: figures/ev_ppat3ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/ev_ppat3ptot0_28-eps-converted-to.pdf>
+Package pdftex.def Info: figures/ev_ppat3ptot0_28-eps-converted-to.pdf  used on
+ input line 694.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/up_ppat1ptot0_28.eps>
+(epstopdf)                    date: 2024-09-25 08:42:44
+(epstopdf)                    size: 41811 bytes
+(epstopdf)             Output file: <figures/up_ppat1ptot0_28-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:44:59
+(epstopdf)                    size: 19929 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat1ptot0_28-e
+ps-converted-to.pdf figures/up_ppat1ptot0_28.eps>
+(epstopdf)             \includegraphics on input line 698.
+Package epstopdf Info: Output file is already uptodate.
+<figures/up_ppat1ptot0_28-eps-converted-to.pdf, id=86, 578.16pt x 289.08pt>
+File: figures/up_ppat1ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/up_ppat1ptot0_28-eps-converted-to.pdf>
+Package pdftex.def Info: figures/up_ppat1ptot0_28-eps-converted-to.pdf  used on
+ input line 698.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/up_ppat2ptot0_28.eps>
+(epstopdf)                    date: 2024-09-25 08:42:49
+(epstopdf)                    size: 38105 bytes
+(epstopdf)             Output file: <figures/up_ppat2ptot0_28-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:45:00
+(epstopdf)                    size: 18967 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat2ptot0_28-e
+ps-converted-to.pdf figures/up_ppat2ptot0_28.eps>
+(epstopdf)             \includegraphics on input line 702.
+Package epstopdf Info: Output file is already uptodate.
+<figures/up_ppat2ptot0_28-eps-converted-to.pdf, id=87, 578.16pt x 289.08pt>
+File: figures/up_ppat2ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/up_ppat2ptot0_28-eps-converted-to.pdf>
+Package pdftex.def Info: figures/up_ppat2ptot0_28-eps-converted-to.pdf  used on
+ input line 702.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
+Package epstopdf Info: Source file: <figures/up_ppat3ptot0_28.eps>
+(epstopdf)                    date: 2024-09-25 08:42:56
+(epstopdf)                    size: 37617 bytes
+(epstopdf)             Output file: <figures/up_ppat3ptot0_28-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-25 08:45:02
+(epstopdf)                    size: 18757 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/up_ppat3ptot0_28-e
+ps-converted-to.pdf figures/up_ppat3ptot0_28.eps>
+(epstopdf)             \includegraphics on input line 706.
+Package epstopdf Info: Output file is already uptodate.
+<figures/up_ppat3ptot0_28-eps-converted-to.pdf, id=88, 578.16pt x 289.08pt>
+File: figures/up_ppat3ptot0_28-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/up_ppat3ptot0_28-eps-converted-to.pdf>
+Package pdftex.def Info: figures/up_ppat3ptot0_28-eps-converted-to.pdf  used on
+ input line 706.
+(pdftex.def)             Requested size: 145.68143pt x 72.83884pt.
 Package epstopdf Info: Source file: <figures/age_vs_rain_per_event.eps>
 (epstopdf)                    date: 2024-09-27 09:10:57
 (epstopdf)                    size: 418422 bytes
@@ -1213,31 +1308,39 @@ d-to.pdf>
 (epstopdf)                    size: 23450 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/age_vs_rain_per_ev
 ent-eps-converted-to.pdf figures/age_vs_rain_per_event.eps>
-(epstopdf)             \includegraphics on input line 507.
+(epstopdf)             \includegraphics on input line 740.
 Package epstopdf Info: Output file is already uptodate.
-<figures/age_vs_rain_per_event-eps-converted-to.pdf, id=69, 433.62pt x 289.08pt
+<figures/age_vs_rain_per_event-eps-converted-to.pdf, id=89, 433.62pt x 289.08pt
 >
 File: figures/age_vs_rain_per_event-eps-converted-to.pdf Graphic file (type pdf
 )
 <use figures/age_vs_rain_per_event-eps-converted-to.pdf>
 Package pdftex.def Info: figures/age_vs_rain_per_event-eps-converted-to.pdf  us
-ed on input line 507.
+ed on input line 740.
 (pdftex.def)             Requested size: 455.24408pt x 303.51207pt.
- [7] [8 <./figures/pr_ppat1ptot0_12-eps-converted-to.pdf> <./figures/pr_ppat2pt
-ot0_12-eps-converted-to.pdf> <./figures/pr_ppat3ptot0_12-eps-converted-to.pdf> 
-<./figures/ev_ppat1ptot0_12-eps-converted-to.pdf> <./figures/ev_ppat2ptot0_12-e
-ps-converted-to.pdf> <./figures/ev_ppat3ptot0_12-eps-converted-to.pdf> <./figur
-es/up_ppat1ptot0_12-eps-converted-to.pdf> <./figures/up_ppat2ptot0_12-eps-conve
-rted-to.pdf> <./figures/up_ppat3ptot0_12-eps-converted-to.pdf>]
-[9 <./figures/pr_ppat1ptot0_28-eps-converted-to.pdf> <./figures/pr_ppat2ptot0_2
-8-eps-converted-to.pdf> <./figures/pr_ppat3ptot0_28-eps-converted-to.pdf> <./fi
-gures/ev_ppat1ptot0_28-eps-converted-to.pdf> <./figures/ev_ppat2ptot0_28-eps-co
-nverted-to.pdf> <./figures/ev_ppat3ptot0_28-eps-converted-to.pdf> <./figures/up
-_ppat1ptot0_28-eps-converted-to.pdf> <./figures/up_ppat2ptot0_28-eps-converted-
-to.pdf> <./figures/up_ppat3ptot0_28-eps-converted-to.pdf>] [10 <./figures/almer
-ia_3_events-eps-converted-to.pdf>] [11 <./figures/madrid_1_event-eps-converted-
-to.pdf>] [12 <./figures/age_vs_rain_per_event-eps-converted-to.pdf>] [13]
-[14] (./rhizodeposit_influence_manuscript.bbl [15] [16] [17]) [18]
+
+Overfull \hbox (3.41016pt too wide) in paragraph at lines 747--747
+[]\OT1/cmr/bx/n/12 Future in-cor-po-ra-tion of rhi-zode-posit in-flu-ence in mo
+d-els of soil hy-draulics:
+ []
+
+[12 <./figures/trigo6days1_3D_plot-eps-converted-to.pdf> <./figures/trigo15days
+1_3D_plot-eps-converted-to.pdf> <./trigo30days1_3D_plot-eps-converted-to.pdf>]
+[13 <./figures/almeria_3_events-eps-converted-to.pdf>] [14 <./figures/madrid_1_
+event-eps-converted-to.pdf>] [15 <./figures/pr_ppat1ptot0_12-eps-converted-to.p
+df> <./figures/pr_ppat2ptot0_12-eps-converted-to.pdf> <./figures/pr_ppat3ptot0_
+12-eps-converted-to.pdf> <./figures/ev_ppat1ptot0_12-eps-converted-to.pdf> <./f
+igures/ev_ppat2ptot0_12-eps-converted-to.pdf> <./figures/ev_ppat3ptot0_12-eps-c
+onverted-to.pdf> <./figures/up_ppat1ptot0_12-eps-converted-to.pdf> <./figures/u
+p_ppat2ptot0_12-eps-converted-to.pdf> <./figures/up_ppat3ptot0_12-eps-converted
+-to.pdf>] [16 <./figures/pr_ppat1ptot0_28-eps-converted-to.pdf> <./figures/pr_p
+pat2ptot0_28-eps-converted-to.pdf> <./figures/pr_ppat3ptot0_28-eps-converted-to
+.pdf> <./figures/ev_ppat1ptot0_28-eps-converted-to.pdf> <./figures/ev_ppat2ptot
+0_28-eps-converted-to.pdf> <./figures/ev_ppat3ptot0_28-eps-converted-to.pdf> <.
+/figures/up_ppat1ptot0_28-eps-converted-to.pdf> <./figures/up_ppat2ptot0_28-eps
+-converted-to.pdf> <./figures/up_ppat3ptot0_28-eps-converted-to.pdf>] [17 <./fi
+gures/age_vs_rain_per_event-eps-converted-to.pdf>] [18] [19] [20]
+(./rhizodeposit_influence_manuscript.bbl [21] [22] [23] [24] [25]) [26]
 (./rhizodeposit_influence_manuscript.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
@@ -1245,40 +1348,39 @@ L3 programming layer <2023-06-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 22857 strings out of 475723
- 437202 string characters out of 5785846
- 1892763 words of memory out of 5000000
- 43211 multiletter control sequences out of 15000+600000
- 526770 words of font info for 84 fonts, out of 8000000 for 9000
+ 23035 strings out of 475723
+ 441276 string characters out of 5785846
+ 1973763 words of memory out of 5000000
+ 43386 multiletter control sequences out of 15000+600000
+ 526936 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,17n,107p,3279b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,17n,107p,3423b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2023/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c
-:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/
-2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2023/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.p
-fb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/te
-xlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2023
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2023/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publi
-c/cm-super/sfrm0600.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super
-/sfrm0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.
-pfb>
-Output written on rhizodeposit_influence_manuscript.pdf (19 pages, 2011231 byte
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2023/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2023/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c
+:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/
+2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.
+pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/202
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2023/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publ
+ic/cm-super/sfrm0600.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-supe
+r/sfrm0800.pfb>
+Output written on rhizodeposit_influence_manuscript.pdf (27 pages, 2240602 byte
 s).
 PDF statistics:
- 987 PDF objects out of 1000 (max. 8388607)
- 283 compressed objects within 3 object streams
+ 1025 PDF objects out of 1200 (max. 8388607)
+ 300 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 123 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 138 words of extra memory for PDF output out of 10000 (max. 10000000)
 

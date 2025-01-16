@@ -35,6 +35,12 @@ Aln{\ae}s, M.~S., J.~Blechta, J.~Hake, A.~Johansson, B.~Kehlet, A.~Logg,
 \newblock The fenics project version 1.5.
 \newblock {\em Archive of Numerical Software\/}~{\em 3\/}(100).
 
+\bibitem[\protect\citeauthoryear{Angers and Caron}{Angers and
+  Caron}{1998}]{angers1998plant}
+Angers, D.~A. and J.~Caron (1998).
+\newblock Plant-induced changes in soil structure: processes and feedbacks.
+\newblock {\em Biogeochemistry\/}~{\em 42\/}(1), 55--72.
+
 \bibitem[\protect\citeauthoryear{Bakker, Manter, Sheflin, Weir, and
   Vivanco}{Bakker et~al.}{2012}]{bakker2012harnessing}
 Bakker, M.~G., D.~K. Manter, A.~M. Sheflin, T.~L. Weir, and J.~M. Vivanco
@@ -77,21 +83,25 @@ Cai, G., J.~Vanderborght, V.~Couvreur, C.~M. Mboh, and H.~Vereecken (2018).
   distributions and water uptake compensation.
 \newblock {\em Vadose Zone Journal\/}~{\em 17\/}(1), 1--21.
 
+\bibitem[\protect\citeauthoryear{Carsel and Parrish}{Carsel and
+  Parrish}{1988}]{carsel1988developing}
+Carsel, R.~F. and R.~S. Parrish (1988).
+\newblock Developing joint probability distributions of soil water retention
+  characteristics.
+\newblock {\em Water resources research\/}~{\em 24\/}(5), 755--769.
+
+\bibitem[\protect\citeauthoryear{Cerda}{Cerda}{1999}]{cerda1999parent}
+Cerda, A. (1999).
+\newblock Parent material and vegetation affect soil erosion in eastern spain.
+\newblock {\em Soil Science Society of America Journal\/}~{\em 63\/}(2),
+  362--368.
+
 \bibitem[\protect\citeauthoryear{Chaichi, Nurre, Slaven, and Rostamza}{Chaichi
   et~al.}{2015}]{chaichi2015surfactant}
 Chaichi, M.~R., P.~Nurre, J.~Slaven, and M.~Rostamza (2015).
 \newblock Surfactant application on yield and irrigation water use efficiency
   in corn under limited irrigation.
 \newblock {\em Crop Science\/}~{\em 55\/}(1), 386--393.
-
-\bibitem[\protect\citeauthoryear{Cl{\'e}ment, Schneider, Dresb{\o}ll, Lynch,
-  and Thorup-Kristensen}{Cl{\'e}ment et~al.}{2022}]{clement2022root}
-Cl{\'e}ment, C., H.~M. Schneider, D.~B. Dresb{\o}ll, J.~P. Lynch, and
-  K.~Thorup-Kristensen (2022).
-\newblock Root and xylem anatomy varies with root length, root order, soil
-  depth and environment in intermediate wheatgrass (kernza{\textregistered})
-  and alfalfa.
-\newblock {\em Annals of Botany\/}.
 
 \bibitem[\protect\citeauthoryear{Condon, Richards, Rebetzke, and
   Farquhar}{Condon et~al.}{2004}]{condon2004breeding}
@@ -115,6 +125,14 @@ Cooper, L., K.~Daly, P.~Hallett, M.~Naveed, N.~Koebernick, A.~G. Bengough,
 \newblock {\em Proceedings of the Royal Society A: Mathematical, Physical and
   Engineering Sciences\/}~{\em 473\/}(2207), 20170178.
 
+\bibitem[\protect\citeauthoryear{Couvreur, Vanderborght, and Javaux}{Couvreur
+  et~al.}{2012}]{couvreur2012simple}
+Couvreur, V., J.~Vanderborght, and M.~Javaux (2012).
+\newblock A simple three-dimensional macroscopic root water uptake model based
+  on the hydraulic architecture approach.
+\newblock {\em Hydrology and earth system sciences\/}~{\em 16\/}(8),
+  2957--2971.
+
 \bibitem[\protect\citeauthoryear{Darcy}{Darcy}{1856}]{darcy1856fontaines}
 Darcy, H. P.~G. (1856).
 \newblock {\em Les Fontaines publiques de la ville de Dijon. Exposition et
@@ -128,6 +146,37 @@ Feki, M., G.~Ravazzani, A.~Ceppi, and M.~Mancini (2018).
 \newblock Influence of soil hydraulic variability on soil moisture simulations
   and irrigation scheduling in a maize field.
 \newblock {\em Agricultural water management\/}~{\em 202}, 183--194.
+
+\bibitem[\protect\citeauthoryear{Gardner}{Gardner}{1991}]{gardner1991modeling}
+Gardner, W. (1991).
+\newblock Modeling water uptake by roots.
+\newblock {\em Irrigation Science\/}~{\em 12\/}(3), 109--114.
+
+\bibitem[\protect\citeauthoryear{Ghestem, Sidle, and Stokes}{Ghestem
+  et~al.}{2011}]{ghestem2011influence}
+Ghestem, M., R.~C. Sidle, and A.~Stokes (2011).
+\newblock The influence of plant root systems on subsurface flow: implications
+  for slope stability.
+\newblock {\em Bioscience\/}~{\em 61\/}(11), 869--879.
+
+\bibitem[\protect\citeauthoryear{Gomez-Peral, Mart{\'\i}n-S{\'a}nchez, de~las
+  Heras-Mart{\'\i}nez, Mair, Ptashnyk, and Dupuy}{Gomez-Peral
+  et~al.}{2025}]{gomez2025exudates}
+Gomez-Peral, E., I.~Mart{\'\i}n-S{\'a}nchez, G.~de~las Heras-Mart{\'\i}nez,
+  A.~Mair, M.~Ptashnyk, and L.~Dupuy (2025).
+\newblock Root exudates facilitate water infiltration and rewetting of dry
+  soil.
+\newblock {\em Manuscript in preparation\/}.
+
+\bibitem[\protect\citeauthoryear{Gutierrez, Cameron-Harp, Chakraborty,
+  Stallbaumer-Cyr, Morrow, Hansen, and Derby}{Gutierrez
+  et~al.}{2022}]{gutierrez2022investigating}
+Gutierrez, M.~M., M.~V. Cameron-Harp, P.~P. Chakraborty, E.~M. Stallbaumer-Cyr,
+  J.~A. Morrow, R.~R. Hansen, and M.~M. Derby (2022).
+\newblock Investigating a microbial approach to water conservation: Effects of
+  bacillus subtilis and surfactin on evaporation dynamics in loam and sandy
+  loam soils.
+\newblock {\em Frontiers in Sustainable Food Systems\/}~{\em 6}, 959591.
 
 \bibitem[\protect\citeauthoryear{Hafeez, Ali, Javed, Iqbal, Khan,
   {\c{C}}i{\u{g}}, Sabagh, Abujamel, Harakeh, Ercisli, et~al.}{Hafeez
@@ -146,12 +195,33 @@ Harris, C.~R., K.~J. Millman, S.~J. van~der Walt, R.~Gommers, P.~Virtanen,
 \newblock Array programming with numpy.
 \newblock {\em Nature\/}~{\em 585\/}(7825), 357--362.
 
+\bibitem[\protect\citeauthoryear{Head, MechCoder, Louppe, Shcherbatyi,
+  fcharras, Vinícius, cmmalone, Schröder, nel215, Campos, Young, Cereda, Fan,
+  rene rex, Shi, Schwabedal, carlosdanielcsantos, Hvass-Labs, Pak,
+  SoManyUsernamesTaken, Callaway, Estève, Besson, Cherti, Pfannschmidt,
+  Linzberger, Cauet, Gut, Mueller, and Fabisch}{Head
+  et~al.}{2018}]{tim_head_2018_1207017}
+Head, T., MechCoder, G.~Louppe, I.~Shcherbatyi, fcharras, Z.~Vinícius,
+  cmmalone, C.~Schröder, nel215, N.~Campos, T.~Young, S.~Cereda, T.~Fan, rene
+  rex, K.~K. Shi, J.~Schwabedal, carlosdanielcsantos, Hvass-Labs, M.~Pak,
+  SoManyUsernamesTaken, F.~Callaway, L.~Estève, L.~Besson, M.~Cherti,
+  K.~Pfannschmidt, F.~Linzberger, C.~Cauet, A.~Gut, A.~Mueller, and A.~Fabisch
+  (2018, March).
+\newblock scikit-optimize/scikit-optimize: v0.5.2.
+
 \bibitem[\protect\citeauthoryear{Iannucci, Canfora, Nigro, De~Vita, and
   Beleggia}{Iannucci et~al.}{2021}]{iannucci2021relationships}
 Iannucci, A., L.~Canfora, F.~Nigro, P.~De~Vita, and R.~Beleggia (2021).
 \newblock Relationships between root morphology, root exudate compounds and
   rhizosphere microbial community in durum wheat.
 \newblock {\em Applied Soil Ecology\/}~{\em 158}, 103781.
+
+\bibitem[\protect\citeauthoryear{Javaux, Schroder, Vanderborght, and
+  Vereecken}{Javaux et~al.}{2008}]{javaux2008use}
+Javaux, M., T.~Schroder, J.~Vanderborght, and H.~Vereecken (2008).
+\newblock Use of a three-dimensional detailed modeling approach for predicting
+  root water uptake.
+\newblock {\em Vadose Zone Journal\/}~{\em 7\/}(3), 1079--1088.
 
 \bibitem[\protect\citeauthoryear{Karagunduz, Pennell, and Young}{Karagunduz
   et~al.}{2001}]{karagunduz2001influence}
@@ -196,6 +266,22 @@ List, F. and F.~A. Radu (2016).
 \newblock A study on iterative methods for solving richards’ equation.
 \newblock {\em Computational Geosciences\/}~{\em 20\/}(2), 341--353.
 
+\bibitem[\protect\citeauthoryear{Liu, Patko, de~le Mata, Dong, Peral, He,
+  Ameduri, Ladmiral, MacDonald, and Dupuy}{Liu et~al.}{2024}]{liu2024microcosm}
+Liu, Y., D.~Patko, A.~L. de~le Mata, X.~Dong, E.~G. Peral, X.~He, B.~Ameduri,
+  V.~Ladmiral, M.~P. MacDonald, and L.~X. Dupuy (2024).
+\newblock Microcosm fabrication platform for live microscopy of plant-soil
+  systems.
+\newblock {\em bioRxiv\/}, 2024--02.
+
+\bibitem[\protect\citeauthoryear{Luo, Niu, Zhang, Chen, Zhang, Xie, Du, Zhu,
+  Wu, and Li}{Luo et~al.}{2019}]{luo2019roots}
+Luo, Z., J.~Niu, L.~Zhang, X.~Chen, W.~Zhang, B.~Xie, J.~Du, Z.~Zhu, S.~Wu, and
+  X.~Li (2019).
+\newblock Roots-enhanced preferential flows in deciduous and coniferous forest
+  soils revealed by dual-tracer experiments.
+\newblock {\em Journal of environmental quality\/}~{\em 48\/}(1), 136--146.
+
 \bibitem[\protect\citeauthoryear{Lynch}{Lynch}{2013}]{lynch2013steep}
 Lynch, J.~P. (2013).
 \newblock Steep, cheap and deep: an ideotype to optimize water and n
@@ -208,12 +294,6 @@ Lynch, J.~P. and T.~Wojciechowski (2015).
 \newblock Opportunities and challenges in the subsoil: pathways to deeper
   rooted crops.
 \newblock {\em Journal of Experimental Botany\/}~{\em 66\/}(8), 2199--2210.
-
-\bibitem[\protect\citeauthoryear{Mair}{Mair}{2023}]{mair2023mathematical}
-Mair, A. (2023).
-\newblock {\em Mathematical modelling and analysis of soil and plant root
-  interactions}.
-\newblock Ph.\ D. thesis, Heriot-Watt University.
 
 \bibitem[\protect\citeauthoryear{Mair, Dupuy, and Ptashnyk}{Mair
   et~al.}{2023}]{mair2023can}
@@ -229,12 +309,28 @@ Mair, A., L.~X. Dupuy, and M.~Ptashnyk (2022).
   oriented by plant roots.
 \newblock {\em Plant and Soil\/}, 1--21.
 
+\bibitem[\protect\citeauthoryear{Marshall, Ballard, Frogbrook, Solloway,
+  McIntyre, Reynolds, and Wheater}{Marshall et~al.}{2014}]{marshall2014impact}
+Marshall, M., C.~Ballard, Z.~Frogbrook, I.~Solloway, N.~McIntyre, B.~Reynolds,
+  and H.~Wheater (2014).
+\newblock The impact of rural land management changes on soil hydraulic
+  properties and runoff processes: results from experimental plots in upland
+  uk.
+\newblock {\em Hydrological Processes\/}~{\em 28\/}(4), 2617--2629.
+
 \bibitem[\protect\citeauthoryear{McGrail, Van~Sanford, and McNear~Jr}{McGrail
   et~al.}{2020}]{mcgrail2020trait}
 McGrail, R.~K., D.~A. Van~Sanford, and D.~H. McNear~Jr (2020).
 \newblock Trait-based root phenotyping as a necessary tool for crop selection
   and improvement.
 \newblock {\em Agronomy\/}~{\em 10\/}(9), 1328.
+
+\bibitem[\protect\citeauthoryear{Morris and Lowery}{Morris and
+  Lowery}{1988}]{morris1988influence}
+Morris, L.~A. and R.~F. Lowery (1988).
+\newblock Influence of site preparation on soil conditions affecting stand
+  establishment and tree growth.
+\newblock {\em Southern Journal of Applied Forestry\/}~{\em 12\/}(3), 170--178.
 
 \bibitem[\protect\citeauthoryear{Mualem}{Mualem}{1976}]{mualem1976new}
 Mualem, Y. (1976).
@@ -260,6 +356,21 @@ Naveed, M., L.~K. Brown, A.~Raffan, T.~S. George, A.~Bengough, T.~Roose,
   properties of soil impacted by root and seed exudates.
 \newblock {\em Vadose Zone Journal\/}~{\em 17\/}(1).
 
+\bibitem[\protect\citeauthoryear{Noguchi, Nik, Kasran, Tani, Sammori, and
+  Morisada}{Noguchi et~al.}{1997}]{noguchi1997soil}
+Noguchi, S., A.~R. Nik, B.~Kasran, M.~Tani, T.~Sammori, and K.~Morisada (1997).
+\newblock Soil physical properties and preferential flow pathways in tropical
+  rain forest, bukit tarek, peninsular malaysia.
+\newblock {\em Journal of Forest Research\/}~{\em 2\/}(2), 115--120.
+
+\bibitem[\protect\citeauthoryear{Noguchi, Tsuboyama, Sidle, and Hosoda}{Noguchi
+  et~al.}{1999}]{noguchi1999morphological}
+Noguchi, S., Y.~Tsuboyama, R.~C. Sidle, and I.~Hosoda (1999).
+\newblock Morphological characteristics of macropores and the distribution of
+  preferential flow pathways in a forested slope segment.
+\newblock {\em Soil Science Society of America Journal\/}~{\em 63\/}(5),
+  1413--1423.
+
 \bibitem[\protect\citeauthoryear{Ober, Alahmad, Cockram, Forestan, Hickey,
   Kant, Maccaferri, Marr, Milner, Pinto, et~al.}{Ober
   et~al.}{2021}]{ober2021wheat}
@@ -273,6 +384,13 @@ Ober, E.~S., S.~Alahmad, J.~Cockram, C.~Forestan, L.~T. Hickey, J.~Kant,
 Oburger, E. and D.~L. Jones (2018).
 \newblock Sampling root exudates--mission impossible?
 \newblock {\em Rhizosphere\/}~{\em 6}, 116--133.
+
+\bibitem[\protect\citeauthoryear{Ogunmokun, Liu, and Wallach}{Ogunmokun
+  et~al.}{2020}]{ogunmokun2020influence}
+Ogunmokun, F.~A., Z.~Liu, and R.~Wallach (2020).
+\newblock The influence of surfactant-application method on the effectiveness
+  of water-repellent soil remediation.
+\newblock {\em Geoderma\/}~{\em 362}, 114081.
 
 \bibitem[\protect\citeauthoryear{Oostindie, Dekker, Wesseling, Ritsema, and
   Moore}{Oostindie et~al.}{2010}]{oostindie2010influence}
@@ -296,6 +414,13 @@ Palta, J.~A., X.~Chen, S.~P. Milroy, G.~J. Rebetzke, M.~F. Dreccer, and M.~Watt
 Preece, C. and J.~Pe{\~n}uelas (2020).
 \newblock A return to the wild: root exudates and food security.
 \newblock {\em Trends in Plant Science\/}~{\em 25\/}(1), 14--21.
+
+\bibitem[\protect\citeauthoryear{Ptashnyk, Roose, Jones, and Kirk}{Ptashnyk
+  et~al.}{2011}]{ptashnyk2011enhanced}
+Ptashnyk, M., T.~Roose, D.~L. Jones, and G.~J. Kirk (2011).
+\newblock Enhanced zinc uptake by rice through phytosiderophore secretion: a
+  modelling study.
+\newblock {\em Plant, Cell \& Environment\/}~{\em 34\/}(12), 2038--2046.
 
 \bibitem[\protect\citeauthoryear{Read, Bengough, Gregory, Crawford, Robinson,
   Scrimgeour, Young, Zhang, and Zhang}{Read et~al.}{2003}]{read2003plant}
@@ -325,6 +450,13 @@ Richards, R., C.~L{\'o}pez-Casta{\~n}eda, H.~Gomez-Macpherson, and A.~Condon
   biology.
 \newblock {\em Irrigation Science\/}~{\em 14}, 93--104.
 
+\bibitem[\protect\citeauthoryear{Rolfe, Griffiths, and Ton}{Rolfe
+  et~al.}{2019}]{rolfe2019crying}
+Rolfe, S.~A., J.~Griffiths, and J.~Ton (2019).
+\newblock Crying out for help with root exudates: adaptive mechanisms by which
+  stressed plants assemble health-promoting soil microbiomes.
+\newblock {\em Current opinion in microbiology\/}~{\em 49}, 73--82.
+
 \bibitem[\protect\citeauthoryear{Schnepf, Leitner, Landl, Lobet, Mai,
   Morandage, Sheng, Z{\"o}rner, Vanderborght, and Vereecken}{Schnepf
   et~al.}{2018}]{schnepf2018crootbox}
@@ -334,17 +466,19 @@ Schnepf, A., D.~Leitner, M.~Landl, G.~Lobet, T.~H. Mai, S.~Morandage, C.~Sheng,
   systems.
 \newblock {\em Annals of botany\/}~{\em 121\/}(5), 1033--1053.
 
+\bibitem[\protect\citeauthoryear{Scott, Rattray, Prosser, Killham, Glover,
+  Lynch, and Bazin}{Scott et~al.}{1995}]{scott1995mathematical}
+Scott, E.~M., E.~A. Rattray, J.~I. Prosser, K.~Killham, L.~A. Glover, J.~Lynch,
+  and M.~Bazin (1995).
+\newblock A mathematical model for dispersal of bacterial inoculants colonizing
+  the wheat rhizosphere.
+\newblock {\em Soil Biology and Biochemistry\/}~{\em 27\/}(10), 1307--1318.
+
 \bibitem[\protect\citeauthoryear{Simunek and Hopmans}{Simunek and
   Hopmans}{2009}]{vsimuunek2009modeling}
 Simunek, J. and J.~W. Hopmans (2009).
 \newblock Modeling compensated root water and nutrient uptake.
 \newblock {\em Ecological modelling\/}~{\em 220\/}(4), 505--521.
-
-\bibitem[\protect\citeauthoryear{Tardieu}{Tardieu}{2012}]{tardieu2012any}
-Tardieu, F. (2012).
-\newblock Any trait or trait-related allele can confer drought tolerance: just
-  design the right drought scenario.
-\newblock {\em Journal of experimental botany\/}~{\em 63\/}(1), 25--31.
 
 \bibitem[\protect\citeauthoryear{Uga, Sugimoto, Ogawa, Rane, Ishitani, Hara,
   Kitomi, Inukai, Ono, Kanno, et~al.}{Uga et~al.}{2013}]{uga2013control}
@@ -382,6 +516,33 @@ Wasson, A.~P., R.~Richards, R.~Chatrath, S.~Misra, S.~S. Prasad, G.~Rebetzke,
 \newblock Traits and selection strategies to improve root systems and water
   uptake in water-limited wheat crops.
 \newblock {\em Journal of experimental botany\/}~{\em 63\/}(9), 3485--3498.
+
+\bibitem[\protect\citeauthoryear{Wen, White, Shen, and Lambers}{Wen
+  et~al.}{2022}]{wen2022linking}
+Wen, Z., P.~J. White, J.~Shen, and H.~Lambers (2022).
+\newblock Linking root exudation to belowground economic traits for resource
+  acquisition.
+\newblock {\em New Phytologist\/}~{\em 233\/}(4), 1620--1635.
+
+\bibitem[\protect\citeauthoryear{Wesseling}{Wesseling}{1991}]{wesseling1991meerjarige}
+Wesseling, J. (1991).
+\newblock Meerjarige simulaties van grondwateronttrekking voor verschillende
+  bodemprofielen, grondwatertrappen en gewassen met het model swatre.
+\newblock {\em SC-DLO report\/}~{\em 152}, 40.
+
+\bibitem[\protect\citeauthoryear{Williams and de~Vries}{Williams and
+  de~Vries}{2020}]{williams2020plant}
+Williams, A. and F.~T. de~Vries (2020).
+\newblock Plant root exudation under drought: implications for ecosystem
+  functioning.
+\newblock {\em New Phytologist\/}~{\em 225\/}(5), 1899--1905.
+
+\bibitem[\protect\citeauthoryear{Wu, Yang, Cui, Liu, Fang, and Shi}{Wu
+  et~al.}{2016}]{wu2016mixed}
+Wu, G.-L., Z.~Yang, Z.~Cui, Y.~Liu, N.-F. Fang, and Z.-H. Shi (2016).
+\newblock Mixed artificial grasslands with more roots improved mine soil
+  infiltration capacity.
+\newblock {\em Journal of Hydrology\/}~{\em 535}, 54--60.
 
 \bibitem[\protect\citeauthoryear{Zhou}{Zhou}{2013}]{zhou2013contact}
 Zhou, A.-N. (2013).

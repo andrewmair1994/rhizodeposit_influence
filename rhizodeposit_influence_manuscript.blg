@@ -3,6 +3,8 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: rhizodeposit_influence_manuscript.aux
 The style file: chicago.bst
 Database file #1: rhizodeposit_influence_bibliography.bib
+Warning--entry type for "tim_head_2018_1207017" isn't style-file defined
+--line 1345 of file rhizodeposit_influence_bibliography.bib
 Repeated entry---line 2675 of file rhizodeposit_influence_bibliography.bib
  : @article{cai2018parameterization
  :                                 ,
@@ -23,60 +25,69 @@ Repeated entry---line 3059 of file rhizodeposit_influence_bibliography.bib
  : @article{schnepf2018crootbox
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5201 of file rhizodeposit_influence_bibliography.bib
+Repeated entry---line 5187 of file rhizodeposit_influence_bibliography.bib
  : @article{AlnaesBlechta2015a
  :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5747 of file rhizodeposit_influence_bibliography.bib
+ : @article{javaux2008use
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5869 of file rhizodeposit_influence_bibliography.bib
+ : @software{tim_head_2018_1207017
+ :                                ,
 I'm skipping whatever remains of this entry
 Warning--page numbers missing in ahrens2005paraview
 Warning--page numbers missing in AlnaesBlechta2015a
 Warning--no number and no volume in brochu2010tutorial
 Warning--page numbers missing in brochu2010tutorial
-Warning--no number and no volume in clement2022root
-Warning--page numbers missing in clement2022root
+Warning--no number and no volume in gomez2025exudates
+Warning--page numbers missing in gomez2025exudates
+Warning--no number and no volume in liu2024microcosm
 Warning--no number and no volume in mair2022model
 Warning--page numbers missing in naveed2018rhizosphere
 Warning--no number and no volume in van2011hydraulic
 Warning--no number and no volume in vogel1996hydrus
 Warning--page numbers missing in vogel1996hydrus
-You've used 55 entries,
+You've used 76 entries,
             2861 wiz_defined-function locations,
-            962 strings with 17351 characters,
-and the built_in function-call counts, 48727 in all, are:
-= -- 3618
-> -- 4905
+            1084 strings with 22503 characters,
+and the built_in function-call counts, 69817 in all, are:
+= -- 5132
+> -- 7203
 < -- 1
-+ -- 1572
-- -- 1628
-* -- 5129
-:= -- 9081
-add.period$ -- 166
-call.type$ -- 55
-change.case$ -- 520
-chr.to.int$ -- 55
-cite$ -- 66
-duplicate$ -- 985
-empty$ -- 2324
-format.name$ -- 1812
-if$ -- 8882
++ -- 2324
+- -- 2390
+* -- 7468
+:= -- 13007
+add.period$ -- 228
+call.type$ -- 76
+change.case$ -- 747
+chr.to.int$ -- 76
+cite$ -- 88
+duplicate$ -- 1355
+empty$ -- 3246
+format.name$ -- 2654
+if$ -- 12713
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 55
-newline$ -- 278
-num.names$ -- 550
-pop$ -- 373
+missing$ -- 76
+newline$ -- 382
+num.names$ -- 760
+pop$ -- 537
 preamble$ -- 1
-purify$ -- 852
+purify$ -- 1204
 quote$ -- 0
-skip$ -- 1006
+skip$ -- 1382
 stack$ -- 0
-substring$ -- 2181
-swap$ -- 319
+substring$ -- 3139
+swap$ -- 439
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1090
-warning$ -- 11
-while$ -- 490
+type$ -- 1510
+warning$ -- 12
+while$ -- 675
 width$ -- 0
-write$ -- 720
-(There were 6 error messages)
+write$ -- 990
+(There were 8 error messages)
